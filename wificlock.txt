@@ -1,1 +1,1 @@
-{"appName": "Wificlock","version": "1.0.3","downUrl": "http://openbox.mobilem.360.cn/index/d/sid/3790524"}
+{"appName": "Wificlock","version": "1.0.3","downUrl": "https://github.com/soundpool/appversion/blob/master/com.smartteam.ledwifiweather_360_3.0.2_180918.apk?raw=true"}
