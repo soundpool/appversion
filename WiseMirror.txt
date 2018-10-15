@@ -1,1 +1,1 @@
-{"appName": "WiseMirror","version": "1.0.4","downUrl": "https://github.com/soundpool/appversion/blob/master/Wisemirror.apk?raw=true"}
+{"appName": "WiseMirror","version": "1.0.4","downUrl": "https://github.com/soundpool/appversion/blob/master/com.smartteam.ledwifiweather_360_3.0.2_180918.apk?raw=true"}
